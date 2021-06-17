@@ -11,7 +11,7 @@
 #
 # Happy Coding!
 
-service: test-serverless
+service: test-seed
 # app and org for use with dashboard.serverless.com
 app: test-seed-app
 #org: aljames
